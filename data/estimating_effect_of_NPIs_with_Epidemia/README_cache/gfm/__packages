@@ -1,0 +1,8 @@
+base
+ggplot2
+kableExtra
+gridExtra
+dplyr
+epidemia
+Rcpp
+rstanarm
